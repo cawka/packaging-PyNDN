@@ -1,0 +1,5 @@
+pyndn (0.2-ppa1~precise1) precise; urgency=low
+
+  * Initial release
+
+ -- Alexander Afanasyev <alexander.afanasyev@ucla.edu>  Sat, 09 Nov 2013 19:31:13 -0800
